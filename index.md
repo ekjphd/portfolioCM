@@ -5,7 +5,6 @@
 Something something, I'm awesome!
 
 ## Links to some work samples
-- [title](https:link)
-- [P5.js sketch](link)
-- [Bitsy](link)
-- [Twine](link)
+- [P5.js sketch](p5.html)
+- [Bitsy](bitsy.html) 
+- [Twine](Twine.html)
