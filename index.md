@@ -8,3 +8,4 @@ Something something, I'm awesome!
 - [P5.js sketch](https://openprocessing.org/sketch/2592306)
 - [Bitsy](bitsy.html) 
 - [Twine](Twine.html)
+- [Fun GIF](gif.webp)
