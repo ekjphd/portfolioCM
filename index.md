@@ -9,3 +9,5 @@ Something something, I'm awesome!
 - [Bitsy](bitsy.html) 
 - [Twine](Twine.html)
 - [Fun GIF](gif.webp)
+
+![Embed test](gif.webp) 
